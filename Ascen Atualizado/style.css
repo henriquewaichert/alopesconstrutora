@@ -780,6 +780,9 @@ li {
         height: 35px;
         margin-left: 40%;
         font-size: 70%;
+        background-color: #f8f8ffe3;
+        border-color: gray;
+        color: black;
     }
 
     .container_contato {
@@ -1200,11 +1203,11 @@ li {
     }
 
     .h1_logo {
-        font-size: 16px;
+        font-size: 22px;
     }
 
     .h2_logo {
-        font-size: 15px;
+        font-size: 19px;
     }
 
     .cabecalho_inicio {
@@ -1215,23 +1218,23 @@ li {
     }
 
     .cabecalho_inicio .a_inicio {
-        font-size: 13px;
+        font-size: 15px;
     }
 
     .cabecalho_inicio .a_inicio:hover {
         color: silver;
-        font-size: 14px;
+        font-size: 16px;
     }
 
     .cabecalho_prazer .a_prazer {
         left: 47%;
         bottom: 31.5%;
-        font-size: 13px;
+        font-size: 15px;
     }
 
     .a_prazer:hover {
         color: silver;
-        font-size: 14px;
+        font-size: 16px;
     }
 
     .cabecalho_servicos {
@@ -1241,12 +1244,12 @@ li {
     }
 
     .cabecalho_servicos .a_servicos {
-        font-size: 13px;
+        font-size: 15px;
     }
 
     .a_servicos:hover {
         color: silver;
-        font-size: 14px;
+        font-size: 16px;
     }
 
     .cabecalho_contato {
@@ -1256,12 +1259,12 @@ li {
     }
 
     .cabecalho_contato .a_contato {
-        font-size: 13px;
+        font-size: 15px;
     }
 
     .a_contato:hover {
         color: silver;
-        font-size: 14px;
+        font-size: 16px;
     }
 
     /* INICIO RESPONSIVEL */
